@@ -1,0 +1,27 @@
+<resources>
+
+
+    <string name="title_activity_contrasena">Contrasena</string>
+    <string name="app_name">My Application</string>
+    <!--Home-->
+    <string name="facebook"> Inicie con Facebook </string>
+    <string name="iniciar">Iniciar sesion</string>
+    <string name="google">Inicie con Google</string>
+    <!--login-->
+    <string name="Correo">Correo electronico</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="olvidocont">Olvido su contraseña?</string>
+    <string name="ntienecuenta">No tiene una cuenta?</string>
+    <string name="Ccuenta">Crear Cuenta</string>
+    <string name="Atras">Atras</string>
+    <!--olvido de contrasena -->
+    <string name="mensajeolvidocon">Enviaremos un mensaje a su correo electronico con su nueva contrasena</string>
+    <string name="enviar">enviar</string>
+    <!--registro-->
+    <string name="Ccontraseña">Confirme la contraseña</string>
+
+    <string name="cancel">Concelar</string>
+
+
+
+</resources>
